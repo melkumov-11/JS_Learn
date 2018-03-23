@@ -8,7 +8,7 @@
 	return function(b) {
 	    var sum = +(a + b);
 	    alert(sum);
-	}
+        }
     }
 
     sum(1)(2);
